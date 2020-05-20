@@ -4,5 +4,5 @@ public class Aula45Endereco {
     //private Aula45Pessoa[] pessoa;
     private String rua;
     private String estado;
-    private String bairro
+    private String bairro;
 }
