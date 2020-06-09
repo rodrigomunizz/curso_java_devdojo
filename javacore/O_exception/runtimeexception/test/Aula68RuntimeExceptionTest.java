@@ -1,5 +1,7 @@
 package estudo.javacore.O_exception.runtimeexception.test;
 
+//checker e uncheckd
+
 import com.sun.xml.internal.ws.api.model.wsdl.WSDLOutput;
 
 public class Aula68RuntimeExceptionTest {
