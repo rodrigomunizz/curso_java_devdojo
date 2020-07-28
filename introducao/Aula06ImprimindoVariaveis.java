@@ -14,7 +14,7 @@ package estudo.introducao;
 */
 
 public class Aula06ImprimindoVariaveis{
-	public static void main(String[] args){
+	public static void main(String[] args){// metodo main
 		int idade = 10;
 		double salarioDouble = 3000;
 		float salariFloat = 3000;

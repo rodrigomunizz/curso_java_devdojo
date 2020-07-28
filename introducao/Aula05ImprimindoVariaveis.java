@@ -34,7 +34,7 @@ args - parametro de entrada do metodo main
 
 public class Aula05ImprimindoVariaveis{
 	//Camelcase
-	public static void main(String[] args){
+	public static void main(String[] args){ //somente uma classe tem que tem uma main. ponto de entrada
 		//classe e metodo static
 		//main é o ponto de entrada para executar o programa
 		int idade = 10;
